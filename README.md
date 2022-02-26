@@ -1,3 +1,2 @@
 # -Kodluyoruz-Frontend-101-Html
-Patika.dev Html Ödev 1 
-İlk Web Sayfamızı Oluşturmak
+[README.md](https://github.com/ashenhair/-Kodluyoruz-Frontend-101-Html/files/8147033/README.md)
